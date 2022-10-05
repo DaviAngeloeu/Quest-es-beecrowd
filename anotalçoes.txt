@@ -1,0 +1,2 @@
+anotalçoes 
+a=int(input())
